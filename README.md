@@ -1,4 +1,4 @@
-# Gerador-Senha
+# Site: Gerador de senha
  
 Site com: HTML, CSS e JavaScript.
 
